@@ -1,3 +1,9 @@
+.hero-title {
+  padding: 20px;
+  color: white;
+  background-color: green;
+}
+
 .hero-desc {
   color: white;
   background-color: darkcyan;
